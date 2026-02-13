@@ -6,7 +6,7 @@ I am a fourth-year computer science student at FUAS, passionate about exploring 
 ## 🚀 What I'm Up To
 
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
-- 💻 Building Spring Boot microservices applications with PostgreSQL , Docker , kafka , Rgpc and  AWS
+- 💻 Building Spring Boot microservices applications with PostgreSQL , Docker , kafka , gRPC and  AWS
 
 
 ## 🌐 Socials:
