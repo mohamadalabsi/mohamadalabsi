@@ -10,7 +10,7 @@ I am a fourth-year computer science student at FUAS, passionate about exploring 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-alabsi-587a58274) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-al-absi-587a58274) 
 
 
 # 💻 Tech Stack:
